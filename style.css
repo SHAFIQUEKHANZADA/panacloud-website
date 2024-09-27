@@ -193,7 +193,7 @@ a {
     transition: width 0.3s;
     position: absolute;
     bottom: -1px;
-    left: 20%;
+    left: 50%;
     transform: translateX(-50%);
   }
 
